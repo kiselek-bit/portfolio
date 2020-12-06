@@ -1,0 +1,29 @@
+.footerBlock {
+    height: 30vh;
+    background-color: #afcaf5;
+}
+
+.footerContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title {
+    background-color: #c8c4c4;
+}
+
+.socialContainer {
+    min-width: 280px;
+    width: 50%;
+    height: max-content;
+    border: 1px solid;
+    display: flex;
+    justify-content: space-between;
+}
+
+.image {
+    background-color: #807f7f;
+    width: 60px;
+    height: 60px;
+}

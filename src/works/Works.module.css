@@ -1,0 +1,22 @@
+.workBlock {
+    min-height: 100vh;
+    height: max-content;
+    background-color: #f6aeae;
+}
+
+.worksContainer {
+    justify-content: center;
+    height: max-content;
+}
+
+.title {
+    background-color: #c8c4c4;
+}
+
+.works {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
